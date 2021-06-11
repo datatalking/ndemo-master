@@ -12,6 +12,7 @@ create a virtual enviroment to install dependencies in and activate it: <br />
 >$ pip install virtualenv <br />
 >$ virtualenv env <br />
 >$ source env/bin/activate <br />
+>$ python manage.py runserver
 
 Then install the dependencies:<br />
 > (env)$pip install -r requirements.txt <br />
