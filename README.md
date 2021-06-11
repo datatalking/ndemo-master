@@ -16,6 +16,9 @@ create a virtual enviroment to install dependencies in and activate it: <br />
 Then install the dependencies:<br />
 > (env)$pip install -r requirements.txt <br />
 
+# Issues I had
+
+
 #couple of things you should check to fine tune towards your needs
 You should change the settings file <br />
 uncomment the last line in common.py in settings and the `import django-heroku'
