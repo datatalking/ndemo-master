@@ -32,7 +32,6 @@ mots-vides==2015.5.11
 # mysqlclient==2.0.3
 Pillow==8.2.0
 prompt-toolkit==3.0.18
-# psycopy3
 psycopg2-binary==2.9.0.dev0
 pyparsing==2.4.7
 python-decouple==3.4
