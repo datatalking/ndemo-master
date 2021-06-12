@@ -24,3 +24,7 @@ Then install the dependencies:<br />
 You should change the settings file <br />
 uncomment the last line in common.py in settings and the `import django-heroku'
 change the database engine to match your settings
+
+#### TODO update this README.md with graphic
+#### TODO https://pythonspeed.com/articles/build-secrets-docker-compose/
+#### TODO https://www.freecodecamp.org/news/the-docker-handbook/
