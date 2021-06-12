@@ -36,6 +36,7 @@ Then install the dependencies:<br />
 * Add coverage tests
   Check tests with `tox`.
 * TODO triage order of these TODO
+* TODO review pages and create website tree
 * TODO python module for backend dashboard of traffic
 * TODO python module for scripted updates
 * TODO setup kwargs for google ads
