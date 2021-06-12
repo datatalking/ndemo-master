@@ -36,6 +36,9 @@ Then install the dependencies:<br />
 * Add coverage tests
   Check tests with `tox`.
 
+* TODO review hosting options, likely keep heroku
+* TODO review prod.py security with home server
+* TODO review prod.py for security
 * TODO read "Two Scoops of Django" and review site for best practices
 * TODO triage order of these TODO
 * TODO review pages and create website tree
