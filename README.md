@@ -36,6 +36,7 @@ Then install the dependencies:<br />
 * Add coverage tests
   Check tests with `tox`.
 
+* TODO https://stackoverflow.com/questions/22841764/best-practice-for-django-project-working-directory-structure
 * TODO review hosting options, likely keep heroku
 * TODO review prod.py security with home server
 * TODO review prod.py for security
