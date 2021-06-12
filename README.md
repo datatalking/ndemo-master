@@ -35,6 +35,8 @@ Then install the dependencies:<br />
 
 * Add coverage tests
   Check tests with `tox`.
+
+* TODO read "Two Scoops of Django" and review site for best practices
 * TODO triage order of these TODO
 * TODO review pages and create website tree
 * TODO python module for backend dashboard of traffic
